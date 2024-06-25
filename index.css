@@ -1,0 +1,155 @@
+*{
+    background-color: #dfe798;
+    color: #33130d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.RECIPE-h1{
+    /* border-bottom: solid 1px ; */
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 3px;
+}
+
+
+.INGREDIENTS-h3{
+    background-color: #b2be51;
+    margin-bottom: 0px;
+    max-width: 612px;
+    padding: 3px;
+    padding-left: 45px;   
+}
+
+.INGREDIENTS-ul{
+    background-color: #b2be51;
+    margin-top: 0px;
+    max-width: 620px;
+}
+
+
+.INGREDIENTS-li{
+    
+    background-color: #b2be51;
+    margin-top: 0px;
+    max-width: 550px;
+    padding: 5px;
+    /* padding-left: 50px; */   
+}
+
+
+figure{
+    margin-left: 0%;
+    size-adjust: 480px;
+}
+
+img{
+    border: solid 1px #b2be51;
+    width:  100%
+}
+
+
+.BUTTON{
+
+    background-color: #d85e0d;
+    border-color: #33130d;
+    border-style: outset;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding: 5px
+    text-align: center;
+}
+
+
+.SERVING-sect{
+    border: 1px solid #33130d;
+    max-width: 655px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.SERVING-h4{
+    background-color: #b2be51;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    max-width: 614px;
+    padding: 3px;
+    padding-left: 44px;    
+}
+
+.SERVING-p{
+    background-color: #b2be51;
+    border: 2px solid #b2be51;
+    max-width: 610px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 42px;
+}
+
+
+.METHOD-h3{
+    background-color: #b2be51;
+    margin-bottom: 0px;
+    max-width: 612px;
+    padding: 3px;
+    padding-left: 45px;
+}
+
+.METHOD-ol{
+    background-color: #b2be51;
+    margin-top: 0px;
+    max-width: 620px;
+}
+
+
+.METHOD-li{
+    
+    background-color: #b2be51;
+    margin-top: 0px;
+    max-width: 612px;
+    padding: 5px;
+    /* padding-left: 50px; */  
+}
+
+
+.G2K-sectionborder{
+    background-color: #d85e0d;
+    border: 2px solid #33130d;
+    max-width: 655px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.G2K-h3{
+    
+    background-color: #d85e0d;
+    max-width: 655px;
+    padding-left: 42px;
+}
+
+.G2K-p{
+    background-color: #d85e0d;
+    max-width: 655px;
+    padding: 5px;
+    font-weight: 500;
+    
+}
+
+.G2K-h4{
+    background-color: #d85e0d;
+    max-width: 655px;
+    padding-left: 42px;
+    
+}
+
+
+/* h2{
+    padding: 3px;
+    
+}
+
+h3{
+    
+} */
+
+/* Comments */
