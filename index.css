@@ -46,7 +46,8 @@ footer{
 
 figure{
     margin-left: 0px;
-    size-adjust: 90%;
+    height: 270px;
+    width: 480px
 }
 
 img{
@@ -62,7 +63,7 @@ img{
     border-style: outset;
     font-weight: bold;
     margin-bottom: 20px;
-    padding: 5px
+    padding: 5px;
     text-align: center;
 }
 
